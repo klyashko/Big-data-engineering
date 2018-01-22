@@ -3,6 +3,8 @@
 
 #folders
 .idea
+.ipynb_checkpoints
+data
 
 #files
 *.iml
